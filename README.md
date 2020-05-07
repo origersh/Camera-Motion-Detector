@@ -1,9 +1,9 @@
 # Camera-Motion-Tracker
 ### Goal:
-Detect moving objects from video taken from my main camera
+Detect moving objects from video taken from my main camera.
 ##### Author: `ori1cannoli`
 ##### Language: `Python (3.8)`
-##### Modules in use: `opencv-python (cv2)` `pandas` `time`
+##### Modules in use: `opencv-python (cv2)` | `pandas` | `time`
 ___
 ## Sources / Readings:
 * [cv2.GaussianBlur](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_imgproc/py_filtering/py_filtering.html)
