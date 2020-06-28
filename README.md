@@ -1,6 +1,6 @@
 # Camera-Motion-Detector
 ### Goal:
-Detect moving objects from video taken from my main camera.
+Detect moving objects on video taken from my main camera.
 ##### `Author:` origersh
 ##### `Language:` Python (3.8)
 ##### `Modules in use:` opencv-python (cv2), pandas, time
