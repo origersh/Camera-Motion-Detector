@@ -1,4 +1,4 @@
-# Camera-Motion-Tracker
+# Camera-Motion-Detector
 ### Goal:
 Detect moving objects from video taken from my main camera.
 ##### `Author:` origersh
